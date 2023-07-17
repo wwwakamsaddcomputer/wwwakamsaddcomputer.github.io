@@ -1,0 +1,1 @@
+# wwwakamsaddcomputer.github.io
