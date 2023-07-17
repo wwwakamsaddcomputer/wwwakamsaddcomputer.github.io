@@ -3,7 +3,7 @@
 
 **The Windows Creators Update's www.aka.ms/addcomputer functionality allows you to connect your phone to your computer.**
 
-Using www.aka.ms/addcomputer, a Windows PC and an Android smartphone can be connected. This Microsoft feature can only be used on Windows or Android devices. Using the www.aka.ms/addcomputer functionality, you can connect your smartphone to your PC and use its features on your computer.
+Using www.aka.ms/addcomputer, a Windows PC and an Android smartphone can be connected. This Microsoft feature can only be used on Windows or Android devices. Using the **[www.aka.ms/addcomputer](https://wwwakamsaddcomputer.github.io/)** functionality, you can connect your smartphone to your PC and use its features on your computer.
 
 
 
@@ -19,12 +19,12 @@ Using www.aka.ms/addcomputer, a Windows PC and an Android smartphone can be conn
 
 * Having a smartphone is quite enjoyable. Making calls, making transfers, and even using the applications are all quite enjoyable. However, this function is much more adaptable than you might imagine. You can now access your entire smartphone with this software. Access your photo and video galleries.
 
-* These were the key benefits of connecting the Smartphone to the Windows OS using www.aka.ms/addcomputer. Therefore, we will go over the steps and requirements for connecting a phone to a computer.
+* These were the key benefits of connecting the Smartphone to the Windows OS using **[www.aka.ms/addcomputer](https://wwwakamsaddcomputer.github.io/)**. Therefore, we will go over the steps and requirements for connecting a phone to a computer.
 
 
 ## How to Connect Your PC & Mobile With www.aka.ms/addcomputer ?
 
-* Check out www.aka.ms/addcomputer.
+* Check out **[www.aka.ms/addcomputer](https://wwwakamsaddcomputer.github.io/)**.
 * If your phone is compatible, the app will download right away.
 * You might also be directed to Google Play, where you can download and set up the software necessary to link your phone to a Windows computer.
 * Put it in.
